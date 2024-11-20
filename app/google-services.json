@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "413591846511",
+    "firebase_url": "https://signup-login-realtime-33863-default-rtdb.firebaseio.com",
+    "project_id": "signup-login-realtime-33863",
+    "storage_bucket": "signup-login-realtime-33863.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413591846511:android:fc11e2b5c02558181fd79a",
+        "android_client_info": {
+          "package_name": "com.example.signuploginrealtime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm9E-28xpRjR1fO2gMz2F0qWWP4S9KJSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
